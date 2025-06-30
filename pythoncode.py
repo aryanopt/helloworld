@@ -7,3 +7,7 @@ print(a)
 # simple calculation: 
 x = 2 
 y = x^2+3
+#importing the required libraries 
+import numpy as np 
+import pandas as pd 
+import sklearn 
