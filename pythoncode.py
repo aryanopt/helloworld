@@ -4,3 +4,6 @@ print(a)
 c = 2   
 a = a + c
 print(a)
+# simple calculation: 
+x = 2 
+y = x^2+3
